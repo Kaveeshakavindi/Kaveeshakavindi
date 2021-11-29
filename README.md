@@ -11,6 +11,7 @@
 - 📫 Reach me with my email kaveeshafernando3@gmail.com
 
 
+![working_woman](https://user-images.githubusercontent.com/95086309/143792120-20253537-335b-4cea-a458-9a560ae51110.gif)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -45,5 +46,3 @@
 [3]: http://www.github.com/Kaveeshakavindi
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-![working_woman](https://user-images.githubusercontent.com/95086309/143790247-38aebda6-f5a1-4a10-ac51-5b815b9a8612.png)
