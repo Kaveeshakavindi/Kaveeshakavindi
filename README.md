@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on a personal project
-- 🌱 I’m currently learning Software Engineering theories
-- 👯 I’m looking to collaborate with other content creaters
-- 💬 2021 and 2022 goals :Help faciliate the community services  
-- 📫 Reach me with my email kaveeshafernando3@gmail.com
+-  I’m currently working on a personal project
+-  I’m currently learning Software Engineering theories
+-  I’m looking to collaborate with other content creaters
+-  2021 and 2022 goals :Help faciliate the community services  
+-  Reach me with my email kaveeshafernando3@gmail.com
 
 
 ![working_woman](https://user-images.githubusercontent.com/95086309/143792120-20253537-335b-4cea-a458-9a560ae51110.gif)
