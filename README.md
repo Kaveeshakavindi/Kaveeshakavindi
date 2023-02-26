@@ -4,10 +4,10 @@
 
 
 
--  I’m currently working on a personal project
--  I’m currently learning Software Engineering theories
--  I’m looking to collaborate with other content creaters
--  2021 and 2022 goals :Help faciliate the community services  
+-  UX designer with a strong focus on creating engaging and intuitive user interfaces.
+-  Full-stack web developer passionate about creating beautiful and functional user interfaces.
+-  Tech enthusiast with a passion for open-source software and contributing to the community.
+-  Dedicated social worker committed to helping individuals and communities overcome challenges and reach their full potential.
 -  Reach me with my email kaveeshafernando3@gmail.com
 
 
