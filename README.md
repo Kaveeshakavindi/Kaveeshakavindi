@@ -1,21 +1,16 @@
-[![alt text](Vector-4.png)](https://kaveeshakavindi.github.io)
+
+
+<a href="https://kaveeshakavindi.github.io">
+  <img src="Vector-4.png" alt="alt text" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+</a>
+
+a img:hover {
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
 
 
 
-### Hi there it's Kaveesha here 👋
-
-
-
-
-
--  UX designer with a strong focus on creating engaging and intuitive user interfaces.
--  Full-stack web developer passionate about creating beautiful and functional user interfaces.
--  Tech enthusiast with a passion for open-source software and contributing to the community.
--  Dedicated social worker committed to helping individuals and communities overcome challenges and reach their full potential.
--  Reach me with my email kaveeshafernando3@gmail.com
-
-
-![working_woman](https://user-images.githubusercontent.com/95086309/143792120-20253537-335b-4cea-a458-9a560ae51110.gif)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
