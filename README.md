@@ -1,13 +1,5 @@
+[![alt text](Vector-4.png)]([website_url](https://kaveeshakavindi.github.io))
 
-
-<a href="https://kaveeshakavindi.github.io">
-  <img src="Vector-4.png" alt="alt text" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
-</a>
-
-a img:hover {
-  transform: scale(1.1);
-  transition: all 0.2s ease-in-out;
-}
 
 
 
