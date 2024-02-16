@@ -1,5 +1,5 @@
 
-[![alt text](portfolio.png)](https://kaveeshakavindi.github.io)
+[![alt text](portfolio.png)](https://kaveeshakavindi.github.io/Kaveesha_Portfolio/)
 
 
 
