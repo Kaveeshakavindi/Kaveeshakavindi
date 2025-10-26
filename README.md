@@ -28,4 +28,7 @@ I'm always open to connecting and exploring new opportunities. Reach out to me v
 
 Follow me on social media to stay informed about my latest projects and contributions to the field of Software Engineering.
 
+[![An image of @kaveeshakavindi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaveeshakavindi)](https://holopin.io/@kaveeshakavindi)
+
+
 
